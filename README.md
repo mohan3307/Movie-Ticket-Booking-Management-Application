@@ -9,7 +9,8 @@ The **Movie Ticket Booking Management Application** is an end-to-end enterprise 
 
 | Deliverable | Link / Resource |
 | :--- | :--- |
-| **Demo Video / Walkthrough** | [Click Here to Watch Demo](https://drive.google.com/) |
+| **Demo Viwe / Walkthrough** | [Click Here to Watch Demo](
+https://dz4qqcya.pegacea.net/prweb/app/movie-ticket-request/) |
 | **Pega Blueprint File** | [View Blueprint JSON](./blueprint/) |
 
 ---
